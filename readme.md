@@ -6,7 +6,7 @@
 > 
 > The moon doesn't mind that
 > 
-> I'm left _all alone_
+> I'm left all alone
 >
 > And she's gone, gone  
 >
