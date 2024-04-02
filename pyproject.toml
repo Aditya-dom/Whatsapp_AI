@@ -1,0 +1,5 @@
+[build-system]
+requires = ["hatchling", "hatch-requirements-txt"]
+
+[project]
+name = "Whatsapp_AI"
