@@ -65,3 +65,13 @@ vRAM requirements could probably be significantly reduced with some optimization
 * Finetuning works best with English chats. If your chats are in another language, you may need to adjust the preprocessing and training parameters accordingly.
 * This code should also work with other models than Mistral 7B, but I haven’t tried it myself. If you want to experiment with different models, you can find them here.
 * In my finetunes, I have not exported group chats from WhatsApp. I am unsure if this would also work or cause any errors.
+
+## We're poised to integrate these enhancements.
+
+It looks like this project could be useful to automatically extract the history from a specific device using whatsapp web api:
+
+https://github.com/mautrix/whatsapp
+
+From the api it looks like you can request old messages through BuildHistorySyncRequest
+
+## **feel free to contribute**
