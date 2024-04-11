@@ -11,7 +11,7 @@ Well, that was a fun keyboard test!
 
 ----------------------------
 
-# Create an AI clone of yourself from your WhatsApp chats (using Mistral 7B)
+# Craft a digital replica of myself by extracting insights from my WhatsApp conversations, employing the **Mistral 7B algorithm.**
 
 ## About
 This repository lets you create an AI chatbot clone of yourself, using your WhatsApp chats as training data. The default model used is **Mistral-7B-Instruct-v0.2**. The code in this repository heavily builds upon llama-recipes (https://github.com/facebookresearch/llama-recipes), where you can find more examples on different things to do with llama models.
